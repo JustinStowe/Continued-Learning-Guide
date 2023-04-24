@@ -27,6 +27,11 @@ function YoutubeLinks() {
           </Link>
         </li>
         <li>
+          <Link href="https://www.youtube.com/watch?v=qn6OhK_Irm4">
+            Starting a small business as a web developer
+          </Link>
+        </li>
+        <li>
           <Link href="https://www.youtube.com/watch?v=bnzVL0a5h5w">
             10 ways to make money as a developer
           </Link>
